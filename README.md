@@ -21,7 +21,7 @@ Aplikasi web untuk booking lapangan mini soccer berbasis Laravel 8, dengan dashb
 ## Screenshots
 
 ![Homepage Screenshot](./public/screenshots/homepage.png)
-![Preview](./preview.png)
+
 
 ---
 
