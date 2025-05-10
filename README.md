@@ -3,19 +3,6 @@
 Aplikasi web untuk booking lapangan mini soccer berbasis Laravel 8, dengan dashboard admin menggunakan SB Admin 2.
 
 ---
-
-## Daftar Isi
-
-- [Screenshots](#screenshots)
-- [Fitur](#fitur)
-- [Struktur Direktori](#struktur-direktori)
-- [Instalasi & Menjalankan Project](#instalasi--menjalankan-project)
-- [Database](#database)
-- [Testing](#testing)
-- [Template Admin](#template-admin)
-- [Konfigurasi Lain](#konfigurasi-lain)
-- [Lisensi](#lisensi)
-
 ---
 
 ## Screenshots
